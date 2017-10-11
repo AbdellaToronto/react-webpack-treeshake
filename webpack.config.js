@@ -42,4 +42,4 @@ module.exports = {
   },
   devtool: false
 };
-;
+
